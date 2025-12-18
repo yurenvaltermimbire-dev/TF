@@ -1,0 +1,7 @@
+{
+  "name": "Terça-feira Launcher",
+  "description": "A futuristic AI-powered Android launcher simulation featuring a voice assistant activated by the trigger 'Terça feira'.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
